@@ -6,8 +6,8 @@ const BookContextProvider = (props) => {
 
     const [books, setBooks] = useState([{
 
-        title: 'The Road to learn React',
-        author: 'Robin Wieruch',
+        title: 'Harry Potter',
+        author: 'J.K Rowling',
         id: 1
     }]);
 
